@@ -45,9 +45,6 @@ This project combines Data Mining, Graph Analysis, and NLP techniques to build a
 
 Install dependencies:
 
-```bash id="a8c2j1"
-pip install -r requirements.txt
-```
 
 Run the Streamlit app:
 
